@@ -1,6 +1,6 @@
 # Data Manipulation with Pandas
 
-pandas is the world's most popular Python library, used for everything from data manipulation to data analysis. 
+Pandas is the world's most popular Python library, used for everything from data manipulation to data analysis. 
 
 In this course, you'll learn how to manipulate DataFrames, as you extract, filter, and transform real-world datasets for analysis.
 
